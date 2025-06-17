@@ -1,3 +1,4 @@
+
 import { LinkItem } from "@/hooks/useLinks";
 
 export const farmsData: LinkItem[] = [
@@ -192,5 +193,13 @@ export const farmsData: LinkItem[] = [
     url: 'https://terabox.app/s/1x0Jvl1Q-yUqYeCpQ_MlMMQ',
     category: 'FARMS',
     imageUrl: 'https://github.com/Guihjzzz/fotos/blob/main/farm%20de%20ferro.png?raw=true'
+  },
+  {
+    id: 'farm-121',
+    title: 'farm polvora decorada',
+    description: 'Farm automática de pólvora decorada',
+    url: 'https://terabox.app/s/1XvUxh4r8oK3XJq9EUB_fMQ',
+    category: 'FARMS',
+    imageUrl: 'https://github.com/Guihjzzz/fotos/blob/main/farm%20polvora%20decorada.png?raw=true'
   }
 ];
